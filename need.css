@@ -1,4 +1,4 @@
-//signup
+/*signup */
     * {box-sizing: border-box}
 
 
@@ -108,7 +108,7 @@ button:hover {
   }
 }
 
-//login
+/*login */
   /* Bordered form */
 form {
   border: 3px solid #f1f1f1;
